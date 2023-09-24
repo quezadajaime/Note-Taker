@@ -21,6 +21,7 @@
   },
   "homepage": "https://github.com/quezadajaime/Note-Taker#readme",
   "dependencies": {
-    "express": "^4.18.2"
+    "express": "^4.18.2",
+    "uniqid": "^5.4.0"
   }
 }
