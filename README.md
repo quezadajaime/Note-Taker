@@ -1,5 +1,7 @@
 # Note Taker
 
+![Screenshot 2023-11-18 160509](https://github.com/quezadajaime/Note-Taker/assets/136545874/bb11c1de-6ce4-401c-ba09-306b8e9d43c1)
+
 ## Table Of Contents
 
 -[Description](#project-description)
